@@ -1,0 +1,28 @@
+# Node / frontend
+node_modules/
+dist/
+.npm/
+
+# Python / backend
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Generated assets / archives
+*.zip
