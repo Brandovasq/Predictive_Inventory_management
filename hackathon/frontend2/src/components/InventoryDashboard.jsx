@@ -12,17 +12,17 @@ const ingredientMeta = {
   bun: {
     label: "Buns",
     image:
-      "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1632552544552-3ca612a328ac?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   patty: {
     label: "Beef Patties",
     image:
-      "https://images.unsplash.com/photo-1603048297172-c92544798d5a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1609806838045-ead77bbe70e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   cheese: {
     label: "Cheese",
     image:
-      "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   lettuce: {
     label: "Lettuce",
@@ -42,7 +42,7 @@ const ingredientMeta = {
   pickles: {
     label: "Pickles",
     image:
-      "https://images.unsplash.com/photo-1592415486689-125cbbfcbee2?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1621378581615-6d27c7d86244?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   sauce: {
     label: "Sauce",
@@ -52,12 +52,12 @@ const ingredientMeta = {
   fries: {
     label: "Fries",
     image:
-      "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   salt: {
     label: "Salt",
     image:
-      "https://images.unsplash.com/photo-1646722670581-974d084e0ec0?q=80&w=1477&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1634612831148-03a8550e1d52?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   "vegan patty": {
     label: "Vegan Patties",
@@ -67,7 +67,7 @@ const ingredientMeta = {
   chicken: {
     label: "Chicken",
     image:
-      "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1689774187968-0e6c29a1d82e?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   coke: {
     label: "Coca-Cola",
@@ -77,12 +77,12 @@ const ingredientMeta = {
   dietCoke: {
     label: "Diet Coke",
     image:
-      "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1492558830530-c134e4d828fc?q=80&w=1050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   sprite: {
     label: "Sprite",
     image:
-      "https://images.unsplash.com/photo-1624517452488-04869289c4ca?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1690988109041-458628590a9e?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   water: {
     label: "Water",
@@ -92,7 +92,7 @@ const ingredientMeta = {
   ice: {
     label: "Ice",
     image:
-      "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1590430752967-d0e116909be1?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 };
 
