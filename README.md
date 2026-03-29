@@ -1,4 +1,4 @@
-Smart Burger Ordering & Inventory Dashboard
+*Smart Burger Ordering & Inventory Dashboard
 
 A full-stack restaurant system that connects live customer orders to real-time inventory tracking and predictive demand insights.
 
