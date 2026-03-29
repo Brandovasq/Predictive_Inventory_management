@@ -61,7 +61,7 @@ const menuItems = [
     name: "Fries",
     price: 3.99,
     image:
-      "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Golden fries with salt",
     baseIngredients: {
       fries: 1,
@@ -77,7 +77,7 @@ const menuItems = [
     name: "Coca-Cola",
     price: 2.49,
     image:
-      "https://images.unsplash.com/photo-1581006852262-e4307cf6283a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1624797375978-8c2f746bdd3a?q=80&w=1493&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Classic Coca-Cola served ice cold",
     baseIngredients: {
       coke: 1,
@@ -93,7 +93,7 @@ const menuItems = [
     name: "Diet Coke",
     price: 2.49,
     image:
-      "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1492558830530-c134e4d828fc?q=80&w=1050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Diet Coke served ice cold",
     baseIngredients: {
       dietCoke: 1,
@@ -109,7 +109,7 @@ const menuItems = [
     name: "Sprite",
     price: 2.49,
     image:
-      "https://images.unsplash.com/photo-1624517452488-04869289c4ca?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1690988109041-458628590a9e?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Crisp lemon-lime Sprite",
     baseIngredients: {
       sprite: 1,
@@ -125,7 +125,7 @@ const menuItems = [
     name: "Bottled Water",
     price: 1.99,
     image:
-      "https://images.unsplash.com/photo-1564419320461-6870880221ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523362628745-0c100150b504?q=80&w=1336&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Chilled bottled water",
     baseIngredients: {
       water: 1,

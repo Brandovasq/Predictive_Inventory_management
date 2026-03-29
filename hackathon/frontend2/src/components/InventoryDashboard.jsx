@@ -27,7 +27,7 @@ const ingredientMeta = {
   lettuce: {
     label: "Lettuce",
     image:
-      "https://images.unsplash.com/photo-1622205313162-be1d5712a43b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   tomato: {
     label: "Tomatoes",
