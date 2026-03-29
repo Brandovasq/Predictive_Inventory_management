@@ -94,7 +94,7 @@ function formatInventoryObject(data) {
   return Object.entries(data).map(([name, quantity]) => ({
     name,
     quantity,
-    max: maxValues[name] || Math.max(quantity, 1),
+    max: Math.max(maxValues[name] ?? 0, Number(quantity) || 0, 1),
   }));
 }
 
